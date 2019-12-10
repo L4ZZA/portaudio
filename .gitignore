@@ -40,3 +40,9 @@ portaudio-2.0.pc
 *.exe
 *.out
 *.app
+
+# Visual Studio db
+.vs
+# Visual Studio binaries and intermediates
+Win32
+x64
